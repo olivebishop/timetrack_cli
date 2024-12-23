@@ -1,0 +1,31 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build output
+*.out
+
+# Dependency directories (specific to Go modules)
+vendor/
+
+# Go build cache
+*.test
+*.o
+*.a
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# IDE/editor config files
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
