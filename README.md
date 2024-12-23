@@ -71,10 +71,18 @@ Alternatively, you can use the executable directly:
     .\timetrack.exe report
     ```
 
+## Building
+
+To build the project, run:
+
+```sh
+go build
+```
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License.# timetrack_cli
+This project is licensed under the MIT License.
