@@ -17,7 +17,7 @@ To install the Time Tracker CLI, clone the repository and install the dependenci
 ```sh
 git clone https://github.com/yourusername/timetrack.git
 cd timetrack
-npm install
+
 ```
 
 ## Usage
